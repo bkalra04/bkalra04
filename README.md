@@ -12,45 +12,34 @@
 
 ---
 
-### about me
-
-I'm the kind of person who reads a psychology paper and immediately wonders how to visualize the data. I study **IDST at UBC** — which basically means I refuse to pick just one field. My sweet spot is the overlap: social science questions answered with code, human behaviour understood through patterns.
-
-Right now I'm learning:
-- 🐍 &nbsp;Python for data analysis & building ML pipelines
-- 🎨 &nbsp;UX/UI design thinking — because insights are useless if nobody can read them
-- 📊 &nbsp;Research methods (the kind that hold up to scrutiny)
-- 🌱 &nbsp;Bringing it all together in a project I'm really proud of
-
 ---
 
 
-### a little more me
-
-outside of school you'll find me:
-
-📖 &nbsp;reading something I'll probably quote at dinner
-🎵 &nbsp;making playlists for every possible mood
-✍️ &nbsp;writing — journals, ideas, half-finished essays
-
----
 
 ### tools i work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
 <div align="center">
 
-*let's connect → [linkedin](https://linkedin.com/in/bhumika-kalra) · [email](mailto:bhumikakalra16@gmail.com)*
 
 </div>
-
 <!--
 **bkalra04/bkalra04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
