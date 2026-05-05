@@ -18,7 +18,7 @@ I like asking why, then figuring out how to measure it — sitting at the inters
 ---
 
 
-### Language and Tools
+### 🛠️ language and tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
