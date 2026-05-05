@@ -12,9 +12,37 @@
 
 ---
 
+### about me
+
+I'm the kind of person who reads a psychology paper and immediately wonders how to visualize the data. I study **IDST at UBC** — which basically means I refuse to pick just one field. My sweet spot is the overlap: social science questions answered with code, human behaviour understood through patterns.
+
+Right now I'm learning:
+- 🐍 &nbsp;Python for data analysis & building ML pipelines
+- 🎨 &nbsp;UX/UI design thinking — because insights are useless if nobody can read them
+- 📊 &nbsp;Research methods (the kind that hold up to scrutiny)
+- 🌱 &nbsp;Bringing it all together in a project I'm really proud of
+
 ---
 
+### things i make
 
+| project | what it is |
+|---|---|
+| [**Uniqlo Regional Colour Study**](https://github.com/bkalra04/Uniqlo-Regional-Colour-Study) | analyzing clothing color assortments across regions using color theory + skin tone demographics |
+| [**UBC Food Psychology Study**](https://github.com/bkalra04/UBC-Food-Psychology-Study) | how budget, mood & exam stress shape what UBC students eat |
+| [**Bento Buddies**](https://github.com/bkalra04/Bento-Buddies) | collaborative project — because good things are built together |
+
+---
+
+### a little more me
+
+outside of school you'll find me:
+
+📖 &nbsp;reading something I'll probably quote at dinner
+🚶‍♀️ &nbsp;going on walks — best way to think, honestly
+🎵 &nbsp;making playlists for every possible mood
+
+---
 
 ### tools i work with
 
@@ -38,6 +66,7 @@
 
 <div align="center">
 
+*let's connect → [linkedin](https://linkedin.com/in/bhumika-kalra) · [email](mailto:bhumikakalra16@gmail.com)*
 
 </div>
 <!--
