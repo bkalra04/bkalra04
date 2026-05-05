@@ -14,7 +14,7 @@
 
 ### about me
 
-I'm the kind of person who reads a psychology paper and immediately wonders how to visualize the data. I study **IDST at UBC** — which basically means I refuse to pick just one field. My sweet spot is the overlap: social science questions answered with code, human behaviour understood through patterns.
+I like asking why, then figuring out how to measure it — sitting at the intersection of data, behaviour, and economics.
 
 Right now I'm learning:
 - 🐍 &nbsp;Python for data analysis & building ML pipelines
