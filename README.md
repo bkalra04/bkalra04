@@ -24,15 +24,6 @@ Right now I'm learning:
 
 ---
 
-### things i make
-
-| project | what it is |
-|---|---|
-| [**Uniqlo Regional Colour Study**](https://github.com/bkalra04/Uniqlo-Regional-Colour-Study) | analyzing clothing color assortments across regions using color theory + skin tone demographics |
-| [**UBC Food Psychology Study**](https://github.com/bkalra04/UBC-Food-Psychology-Study) | how budget, mood & exam stress shape what UBC students eat |
-| [**Bento Buddies**](https://github.com/bkalra04/Bento-Buddies) | collaborative project — because good things are built together |
-
----
 
 ### a little more me
 
