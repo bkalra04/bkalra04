@@ -16,12 +16,6 @@
 
 I like asking why, then figuring out how to measure it — sitting at the intersection of data, behaviour, and economics.
 
-Right now I'm learning:
-- 🐍 &nbsp;Python for data analysis & building ML pipelines
-- 🎨 &nbsp;UX/UI design thinking — because insights are useless if nobody can read them
-- 📊 &nbsp;Research methods (the kind that hold up to scrutiny)
-- 🌱 &nbsp;Bringing it all together in a project I'm really proud of
-
 ---
 
 
