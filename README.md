@@ -5,7 +5,7 @@
  ✦ hi, i'm bhumika ✦
 ```
 
-*3rd year · interdisciplinary studies @ UBC*
+*4th year · interdisciplinary studies @ UBC*
 *where data meets the human side of things*
 
 </div>
